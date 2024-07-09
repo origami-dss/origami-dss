@@ -1,6 +1,6 @@
 - 👋 Hello, I am Annette from Origami Data Science Services
-- 👀 I’m interested Data Science, Data Visualization and Modelling
-- 🌱 I’m currently learning R tidyverse and R shiny
+- 👀 I’m interested Data Science (and in particular, Time Series Analysis), Data Visualization and Modelling
+- 🌱 I’m currently learning advanced R and R shiny
 - 💞️ I’m looking to collaborate on R shiny applications with minimalistic design
 - 📫 How to reach me: origami-dss@posteo.de
 
