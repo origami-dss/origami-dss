@@ -1,4 +1,4 @@
--  I am Annette from Origami Data Science Services. I have worked in scintific institutions in Germany, Italy and GB.
+-  I am Annette from Origami Data Science Services. I have worked in scientific institutions in Germany, Italy and GB.
 -  I am interested data science (and in particular, in time series analysis), data visualization and modelling.
 -  I am currently learning advanced R and R shiny.
 -  I am looking for collaborations for R shiny applications with minimalistic design.
